@@ -1,38 +1,59 @@
 {
     "length": [
+        {
+            "Centimetre": 0.035,
+            "Metre": 0.035
+        },
         [
-            ["Centimetre", 0.035, true],
+            ["Centimetre", true],
             ["iPhone 6s", 13.81, true]
         ],
         [
-            ["Centimetre", 0.035, true],
+            ["Centimetre", true],
             ["Pencil", 200, true]
         ],
         [
-            ["Metre", 0.000345, true],
+            ["Metre", true],
             ["400m Athletics Track", 400, true]
+        ],
+        [
+            ["Metre", true],
+            ["Great Pyramid of Giza", 139, true]
+        ],
+        [
+            ["Metre", true],
+            ["Eiffel Tower", 300, true]
         ]
     ],
     "time": [
+        {
+            "Minutes": 0.003
+        },
         [
-            ["Minutes", 0.003, true],
+            ["Minutes", true],
             ["Century", 52560000]
         ]
     ],
     "area": [
         [
-            ["Sqaure Centimetre", 65, true],
+            ["Sqaure Centimetre", 65]
+        ],
+        [
+            ["Sqaure Centimetre", true],
             ["A4 Paper", 623.7, true]
         ]
     ],
     "energy": [
+        {
+            "Watt": 0.0125
+        },
         [
-            ["Watt", 0.0125, true],
+            ["Watt", true],
             ["Solar Power Panel Generation / h", 90]
         ],
         [
-            ["Watt", 0.0125, true],
-            ["Average Household Electricity Consumption", 6000000]
+            ["Watt", true],
+            ["Average Household Yearly Electricity Consumption", 6000000]
         ]
     ]
 }
