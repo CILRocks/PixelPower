@@ -4,7 +4,7 @@
 
 Everyone is welcomed to contribute your ideas to the templates.json. Just add the templates you want and pull request, I'll check out and merge if it fits the rules.
 
-> Rule:
+> Rules:
 >
 > Nothing sensitive. Nothing political.
 >
@@ -49,4 +49,3 @@ Types like time, energy and length. Any template must be put under a right type.
   ]
 ]
 ```
-
