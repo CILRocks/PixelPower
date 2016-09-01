@@ -1,0 +1,38 @@
+{
+    "length": [
+        [
+            ["Centimetre", 0.035, true],
+            ["iPhone 6s", 13.81, true]
+        ],
+        [
+            ["Centimetre", 0.035, true],
+            ["Pencil", 200, true]
+        ],
+        [
+            ["Metre", 0.000345, true],
+            ["400m Athletics Track", 400, true]
+        ]
+    ],
+    "time": [
+        [
+            ["Minutes", 0.003, true],
+            ["Century", 52560000]
+        ]
+    ],
+    "area": [
+        [
+            ["Sqaure Centimetre", 65, true],
+            ["A4 Paper", 623.7, true]
+        ]
+    ],
+    "energy": [
+        [
+            ["Watt", 0.0125, true],
+            ["Solar Power Panel Generation / h", 90]
+        ],
+        [
+            ["Watt", 0.0125, true],
+            ["Average Household Electricity Consumption", 6000000]
+        ]
+    ]
+}
