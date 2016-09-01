@@ -2,7 +2,7 @@
     "length": [
         {
             "Centimetre": 0.035,
-            "Metre": 0.035
+            "Metre": 0.000345
         },
         [
             ["Centimetre", true],
@@ -35,9 +35,9 @@
         ]
     ],
     "area": [
-        [
-            ["Sqaure Centimetre", 65]
-        ],
+        {
+            "Sqaure Centimetre": 65
+        },
         [
             ["Sqaure Centimetre", true],
             ["A4 Paper", 623.7, true]
