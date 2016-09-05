@@ -27,11 +27,24 @@
     ],
     "time": [
         {
-            "Minutes": 0.003
+            "Minute": 0.003,
+            "Hour": 0.00005
         },
         [
-            ["Minutes", true],
+            ["Hour", true],
             ["Century", 52560000]
+        ],
+        [
+            ["Hour", true],
+            ["A Butterfly's Lifetime", 360, true]
+        ],
+        [
+            ["Minute", true],
+            ["90 Minutes Movie", 90, true]
+        ],
+        [
+            ["Minute", true],
+            ["Pop Song", 3.7, true]
         ]
     ],
     "area": [
